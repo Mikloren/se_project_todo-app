@@ -1,17 +1,17 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+A simple todo app to help keep track of diffrent tasks and there respective deadlines.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+A task planer with due dates, as well as some form validation functions.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+Major refactoring to help decluter the Java Script code by creating seprate files for individual functions, with the use of import and export statments.
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- Deployment Link :https://mikloren.github.io/se_project_todo-app/
